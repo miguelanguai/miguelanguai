@@ -105,7 +105,7 @@ Here you can find some of my personal projects, feel free to explore them:
 
 ## My stats
 
-//aqui poner mis stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelanguai)](https://github.com/anuraghazra/github-readme-stats)
 
 ## More of myself
 
