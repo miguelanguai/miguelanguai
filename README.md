@@ -71,6 +71,10 @@ Professional Degree from 2022 to 2024
 
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+> **ALSO**
+>
+> JAVA
+
 ### OS
 
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -114,20 +118,6 @@ portfolio](https://miguelanguai.github.io/). Also, here is my LinkedIn profile
 if you need to check it out: [My LinkedIn
 Profile](https://www.linkedin.com/in/miguelangelguaita/).
 
-> [!NOTE] Updated to december 2023
-
-
-<!--
-**miguelanguai/miguelanguai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **NOTE**
+>
+> Updated to december 2023
