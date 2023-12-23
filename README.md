@@ -99,14 +99,6 @@ Professional Degree from 2022 to 2024
 
 > Badges taken from [alexandresanlim/Badges4](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
-### My badges
-
-## My main projects
-
-Here you can find some of my personal projects, feel free to explore them:
-
-//Aqui añadir los pines de los repositorios que quiero vincular
-
 ## My stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelanguai)](https://github.com/anuraghazra/github-readme-stats)
