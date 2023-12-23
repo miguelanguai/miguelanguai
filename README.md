@@ -1,5 +1,7 @@
 # Hi there 👋 I'm Miguel Ángel
-//aqui añadir la imagen o el GIF
+
+![bugs bunny GIF](images/sup-bugs.gif)
+
 ## Web developer
 
 I'm a web developing student based in Valencia, Spain, who is, for now, studying to enter de web development world. I'm interested in the back-end whereas I'm still learning about the frontend. I'm always trying to expand my knowledge and force myself to get new challenges and enter new scenarios to learn a lot from.
