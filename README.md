@@ -4,13 +4,13 @@
 
 ## Web developer
 
-I'm a web developing student based in Valencia, Spain, who is, for now, studying
-to enter de web development world. I'm interested in the back-end whereas I'm
-still learning about the frontend. I'm always trying to expand my knowledge and
-force myself to get new challenges and enter new scenarios to learn a lot from.
-For now, I have developed a Parchees in JAVA language (first course final
-project), and also developed a fire predictor in NASA Hackathon Space Apps 2023,
-and right now I'm involved in developing a web images gallery.
+I am a web development graduate based in Valencia, Spain, specializing primarily in Java Spring Boot for back-end development. While I am still learning about the front-end, I have experience in Angular and JavaScript.
+
+I am always striving to expand my knowledge and embrace new challenges, which has led me to develop several repositories with Spring Boot. Some of my notable projects include a Parchees game in Java, which was my final project for my first course, and a fire predictor developed during the NASA Hackathon Space Apps 2023.
+
+Currently, I am involved in developing a web image gallery and am also studying a specialization course in Cloud Computing, specifically focusing on AWS.
+
+I am eager to continue learning and growing in the web development field!
 
 ## My stack
 
